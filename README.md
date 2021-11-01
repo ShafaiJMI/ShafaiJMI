@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MD IMAM SHAFAI
 - 👀 I’m interested in programming, backend, IOT and AI.
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Fullstack development
 - 📫 How to reach me ..
 
 <!---
